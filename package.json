@@ -1,0 +1,11 @@
+{
+    "name": "chorus",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "cp src/index.html build/index.html && cp src/styles.css build/styles.css"
+    },
+    "dependencies": {
+      "vercel": "^22.2.0"
+    }
+  }
+  

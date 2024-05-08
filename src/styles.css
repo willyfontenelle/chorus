@@ -1,0 +1,14 @@
+body {
+    background-color: #111; /* Cor quase preto (grafite) */
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.chorus {
+    font-size: 24px;
+    color: white; /* Cor do texto em branco */
+}
